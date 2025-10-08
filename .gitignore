@@ -1,0 +1,20 @@
+# CodeIgniter writable directories
+/writable/*
+/public/uploads/*
+
+# Environment files
+.env
+.env.*
+
+# Composer dependencies
+/vendor/
+
+# System cache or log files
+*.log
+composer.lock
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
